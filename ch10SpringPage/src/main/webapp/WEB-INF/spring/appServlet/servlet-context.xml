@@ -53,7 +53,7 @@
 	
 	
 	<!-- 데이터 작업 없이 뷰 호출 - 메인 페이지 : tiles-def/main.xml에서 "main"으로 definition된 속성을 불러옴  -->
-	<view-controller path="/main/main.do" view-name="main"/>
+	<view-controller path="/main/main.do" view-name="main"/> 
 	
 	<!-- 로그인 여부 체크 -->
 	<interceptors>
